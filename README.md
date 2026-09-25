@@ -36,12 +36,6 @@ I worked on the backend, building a scalable MVC REST API with Node.js and Expre
 
 A RESTful backend built with Node.js, Express.js, MongoDB, and MVC, featuring authentication/security practices, image processing, nested reviews, and MongoDB aggregation.
 
-### 🌱 Currently Learning
-
-* TypeScript
-* PostgreSQL
-* Advanced backend development
-
 ### 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/hagar-hashesh/)
