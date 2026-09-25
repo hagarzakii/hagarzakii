@@ -15,13 +15,13 @@ Node.js · Express.js · REST APIs · MVC
 **Databases:**
 MongoDB · Mongoose · MySQL
 
-**Authentication & Security**
+**Authentication & Security:**
 JWT · Refresh Tokens · RBAC · OAuth · OTP
 
-**Real-Time**
+**Real-Time:**
 WebSockets · Socket.IO
 
-**Tools**
+**Tools:**
 Git · GitHub · Postman
 
 ### 📌 Featured Project
